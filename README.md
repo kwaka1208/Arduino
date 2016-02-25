@@ -1,4 +1,4 @@
-# Arduino
+# Small Arduino
 I will create software centered product with tiny hardware.
 
 - [KitchenTimer](KitchenTimer)  
