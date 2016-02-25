@@ -1,7 +1,7 @@
 # Arduino
-できるだけ小さなハードウェア構成（少ない部品）の使った、ソフトウェア中心のサンプルを掲載していこうと思っています。
+I will create software centered product with tiny hardware.
 
 - [KitchenTimer](KitchenTimer)  
-タクトスイッチとLEDので動作するキッチンタイマーです。
+The kitchen timer that works only with tact switch and LED.
 
 Software is eating the world!
