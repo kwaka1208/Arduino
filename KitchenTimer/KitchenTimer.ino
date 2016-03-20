@@ -6,7 +6,7 @@ enum STATE {
 
 #define UNIT_TIME 60
 volatile int currentState = STATE_WAIT;			// Status
-volatile unsigned long countSec = 0;				// Timer Value 1 = 1sec
+volatile unsigned long countSec = 0;			// Timer Value 1 = 1sec
 volatile unsigned long startTime = 0;			// Start Time
 volatile unsigned long lastInteruptTime = 0;	// The time that last interupt occured.
 
